@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(253, 251, 251);
+}
+
+#cabecalho {
+    background-color: darkcyan; 
+    position: fixed; 
+    top: 0;
+    width: 100%;
+    padding: 30px 15px ;
+}
+
+#titulo {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
