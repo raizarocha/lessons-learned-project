@@ -18,32 +18,54 @@ body {
 }
 
 #minha_foto {
-  width: 250px;
+  width: 200px;
+  margin-left: 50px;
+  margin-top: 105px;
+}
+
+article {
+  text-align: justify;
+  background-color: darkseagreen;
+  padding: 10px 15px;
+  width: 500px;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+aside {
+  text-align: justify;
+  background-color: grey;
+  border-style: solid;
+  padding: 25px;
+  width: 300px;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+li {
+  margin-left: 50px;
+}
+
+
+h2 {
+  margin-left: 50px;
+}
+
+#descreve-link {
   margin-top: 70px;
-  margin-left: 5px;
-  border-radius: 50%;
+  margin-left: 50px;
 }
 
-#licoes_aprendidas {
-  margin-left: 5px;
-}
-
-#licoes_a_aprender {
-  margin-left: 5px;
-}
-
-p {
-  margin-left: 45px;
-}
-
-.linka-pagina {
+#linka-pagina {
   color: darkcyan;
+  text-decoration: none;
 }
 
 #rodape {
-  font-size: 10px;
+  font-size: 15px;
   color: white;
   background-color: darkcyan;
   text-align: center;
-  padding: 15px 5px;
+  padding: 15px;
+  margin-top: 50px;
 }
