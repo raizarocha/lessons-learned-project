@@ -1,14 +1,14 @@
 # README
+## Projeto Lessons Learned <br />
 
 Esse projeto foi o primeiro projeto desenvolvido na Trybe, com a finalidade de por em prática o que aprendi nos primeiros blocos de Fundamentos no Curso de Desenvolvimento Web, em abril de 2022.
 
-Nele foi colocado em prática o que aprendemos sobre:
--Git :heavy_check_mark:;
--GitHub :heavy_check_mark:;
--HTML* :heavy_check_mark:;
--CSS* :heavy_check_mark:;
+Nele foi colocado em prática o que aprendemos sobre: <br />
+- Git :heavy_check_mark:; <br />
+- GitHub :heavy_check_mark:; <br />
+- Introdução a HTML e CSS [^*]; <br />
 
-*Estruturas de página; Primeiros passos em CSS; Seletores e posicionamento e HTML semântico. 
+[^*]: Estruturas de página; Primeiros passos em CSS; Seletores e posicionamento e HTML semântico.
 
 A parte que desenvolvi nesse projeto, podem ser encontradas nos arquivos index.html e style.css. Todos os outros arquivos já são entregues prontos para os alunos em aprendizado da Trybe.
 <!-- Olá, Tryber!
