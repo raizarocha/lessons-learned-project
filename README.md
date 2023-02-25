@@ -10,7 +10,21 @@ Nele foi colocado em prática o que aprendemos sobre: <br />
 
 [^*]: Estruturas de página; Primeiros passos em CSS; Seletores e posicionamento e HTML semântico.
 
-A parte que desenvolvi nesse projeto, podem ser encontradas nos arquivos index.html e style.css. Todos os outros arquivos já são entregues prontos para os alunos em aprendizado da Trybe.
+Lista de requisitos realizados por mim neste projeto:
+1. Adicione uma cor de fundo específica para a página <br />
+2. Adicione uma barra superior com um título <br />
+3. Adicione uma foto sua à página <br />
+4. Adicione uma lista de lições aprendidas à página <br />
+5. Crie uma lista de lições que ainda deseja aprender para a página <br />
+6. Adicione um rodapé para a página <br />
+7. Insira pelo menos um link externo na página <br />
+8. Crie um artigo sobre seu aprendizado <br />
+9. Crie uma seção que conta uma passagem sobre seu aprendizado <br />
+10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles <br />
+11. Teste a semântica da sua página está aprovada pelo site CodeSniffer <br />
+12. Utilize o Box model <br />
+
+As partes que desenvolvi no projeto, podem ser encontradas nos arquivos index.html e style.css. Todos os outros arquivos já são entregues prontos para os alunos em aprendizado da Trybe.
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
