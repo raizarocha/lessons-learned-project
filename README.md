@@ -6,7 +6,7 @@ Esse projeto foi o primeiro projeto desenvolvido na Trybe, com a finalidade de p
 Nele foi colocado em prática o que aprendemos sobre: <br />
 - Git :heavy_check_mark:; <br />
 - GitHub :heavy_check_mark:; <br />
-- Introdução a HTML e CSS [^*]; <br />
+- Introdução a HTML e CSS [^*] :heavy_check_mark:; <br />
 
 [^*]: Estruturas de página; Primeiros passos em CSS; Seletores e posicionamento e HTML semântico.
 
