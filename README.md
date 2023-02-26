@@ -4,9 +4,9 @@
 Esse projeto foi o primeiro projeto desenvolvido na Trybe, com a finalidade de por em prática o que aprendi nos primeiros blocos de Fundamentos no Curso de Desenvolvimento Web, em abril de 2022.
 
 Nele foi colocado em prática o que aprendemos sobre: <br />
-- Git :heavy_check_mark:; <br />
-- GitHub :heavy_check_mark:; <br />
-- Introdução a HTML e CSS [^*] :heavy_check_mark:; <br />
+- Git :heavy_check_mark: <br />
+- GitHub :heavy_check_mark: <br />
+- Introdução a HTML e CSS [^*] :heavy_check_mark: <br />
 
 [^*]: Estruturas de página; Primeiros passos em CSS; Seletores e posicionamento e HTML semântico.
 
