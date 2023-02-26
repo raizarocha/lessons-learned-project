@@ -21,7 +21,7 @@ Lista de requisitos realizados por mim neste projeto:
 8. Crie um artigo sobre seu aprendizado <br />
 9. Crie uma seção que conta uma passagem sobre seu aprendizado <br />
 10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles <br />
-11. Teste a semântica da sua página está aprovada pelo site CodeSniffer <br />
+11. Teste se a semântica da sua página está aprovada pelo site CodeSniffer <br />
 12. Utilize o Box model <br />
 
 As partes que desenvolvi no projeto, podem ser encontradas nos arquivos index.html e style.css. Todos os outros arquivos já são entregues prontos para os alunos em aprendizado da Trybe.
